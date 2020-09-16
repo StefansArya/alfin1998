@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-🌱 Web Development i can use:
+🌱 Web Development I can use:
 - HTML
 - CSS
 - PHP and + Framework: Codeigniter and Laravel
 - Javascript and + Framework: React.js, Vue.js and Adonis.Js
 
-👯 Game Development i use engine:
+👯 Game Development I use engine:
 - Unity
 - Buildbox
 - Gamemaker Studio 2 Dekstop
 - RPG Maker 2003 until MV
 
-🔭 Computer Vision(Image Processing and Video) i build using:
+🔭 Computer Vision(Image Processing and Video) I build using:
 - Visual Studio (C# and sometime using library EmguCV, Aforge, and Accord)
 - Python (OpenCV, Numpy, etc)
 - MATLAB
