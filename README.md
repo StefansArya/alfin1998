@@ -3,7 +3,7 @@
 🌱 Web Development I can use:
 - HTML
 - CSS
-- PHP and + Framework: Codeigniter and Laravel
+- PHP and + Framework: CodeIgniter and Laravel
 - Javascript and + Framework: React.js, Vue.js and Adonis.Js
 
 👯 Game Development I use engine:
